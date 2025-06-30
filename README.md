@@ -39,15 +39,6 @@ I also dynamically modify the DOM and add basic events.
 - `npm run build`
 - `npm start`
 
-## Author:
-
-- Github: @<https://github.com/AmaduKamara>
-
-- LinkedIn: @<https://www.linkedin.com/in/amadu-kamara-3b60a25b/>
-
-- Twitter: @<https://twitter.com/DevAmkam/>
-
-- Facebook: @<https://www.facebook.com/amadus.kamara.7/>
 
 ## 🤝 Contributing
 
