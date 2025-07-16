@@ -40,19 +40,4 @@ I also dynamically modify the DOM and add basic events.
 - `npm start`
 
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-Feel free to check the <a href="https://github.com/AmaduKamara/todo-list/issues">issues page</a>
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-👍
-
-- Thanks to Microverse code reviewers for your reviews. Your reviews made my code better and enhanced the look of my capstone project.
-- Thanks to my coding partners for collaborating with me on this project, giving suggestions and support.
-- And most importantly, thanks, to Microverse for the opportunity given in making me a Professional remote Software developer. I am looking forward to becoming a great one.
